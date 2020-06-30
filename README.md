@@ -1,2 +1,0 @@
-#Ecoleta-Starter
-###Como executar
