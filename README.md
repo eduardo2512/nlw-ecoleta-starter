@@ -1,0 +1,3 @@
+# Ecoleta Starter
+### Como instalar
+...
